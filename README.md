@@ -1,2 +1,2 @@
 # fakedevice
-It's just a example that describe how to connect Presto
+It's just an example that describes how to connect Presto
